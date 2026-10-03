@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /admin
+Disallow: /make-payment
+
+Sitemap: https://zonetourism.ae/sitemap.xml
